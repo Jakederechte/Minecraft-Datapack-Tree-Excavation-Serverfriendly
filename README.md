@@ -10,4 +10,3 @@ Important files are:
     the craftingitems.mcfunction for all the crafting items(in the chat:/function <game:name>)
     the delete_scores.mcfunction for deleting all scoreboards before deaktivating/deleting the datapack
     the lumberjackaxe.mcfunction for getting the axe
-
