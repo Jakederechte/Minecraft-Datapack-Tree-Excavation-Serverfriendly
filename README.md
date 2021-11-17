@@ -2,7 +2,7 @@
 Chop down whole trees at once with the new lumberjack axe. (Java Edition)
 
 The projekt is still NOT finished but works good in survival.
-When spawning everybody gets the manualbook(book.mcfunction) so everything to play schould be clear.
+When spawning everybody gets the manualbook (book.mcfunction) so everything to play schould be clear.
 
 HAVE FUN!
 
