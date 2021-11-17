@@ -1,4 +1,4 @@
-# Minecraft-Datapack-Tree-Excavation-Serverfriendly-
+# Minecraft-datapack-Tree-Excavation-(Serverfriendly)
 Chop down whole trees at once with the new lumberjack axe. (Java Edition)
 
 The projekt is still NOT finished but works good in survival.
