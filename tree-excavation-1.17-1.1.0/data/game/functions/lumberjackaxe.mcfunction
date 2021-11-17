@@ -1,1 +1,0 @@
-give @s netherite_axe{display:{Name:'{"text":"Lumberjack axe","color":"dark_purple","italic":true}',Lore:['{"text":"Baut den ganzen Baum auf einmal ab"}']},Enchantments:[{}]} 1
