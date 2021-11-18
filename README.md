@@ -1,10 +1,11 @@
 # Minecraft-datapack-Tree-Excavation-(Serverfriendly)
-Chop down whole trees at once with the new lumberjack axe. (Java Edition)
-
-The projekt is still NOT finished but works good in survival.
-When spawning everybody gets the manualbook (book.mcfunction) so everything to play schould be clear.
-
-HAVE FUN!
+ Having the pack downloaded, up and running, on your singleplayer world or your server, life in survival gets a lot easier. 
+ 
+ Simply crafting the Lumberjack-axe, you are now able to chop down whole trees at once. 
+ 
+ Chop one log of a tree and all the other logs drop down as well.
+ 
+ All the information needed to craft yourself the Lumberjack-axe is contained in the manual you get when starting the world or joining a server. Have Fun!
 
 Important files are:
     the craftingitems.mcfunction for all the crafting items(in the chat:/function <game:name>)
