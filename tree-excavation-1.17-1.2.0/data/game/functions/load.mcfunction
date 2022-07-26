@@ -1,3 +1,7 @@
+#depends on game:book_schedule
+
+advancement revoke @a only game:lumberjackaxe_adv
+
 scoreboard objectives remove wooddetect
 scoreboard objectives remove wood1
 scoreboard objectives remove wood2
@@ -10,7 +14,7 @@ scoreboard objectives remove wood8
 
 team remove gotbook
 
-tellraw @a {"text": "All at one!", "color": "#00ff44"}
+tellraw @a {"text": "All at once!", "color": "#00ff44"}
 
 scoreboard objectives add wooddetect dummy
 scoreboard players add @a wooddetect 0
@@ -33,5 +37,4 @@ scoreboard players add @a wood8 0
 
 team add gotbook
 
-function game:book
-function game:axecrafting
+function game:book_schedule

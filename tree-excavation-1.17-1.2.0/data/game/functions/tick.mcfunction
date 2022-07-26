@@ -1,3 +1,5 @@
+#depends on game:marker
+
 execute as @a[scores={wood1=1},nbt={SelectedItem:{id:"minecraft:netherite_axe",Count:1b,tag:{display:{Name:'{"text":"Lumberjack axe","color":"dark_purple","italic":true}',Lore:['{"text":"Chops down a whole tree at once!"}']}}}}] at @s run function game:marker
 execute run scoreboard players set @a[scores={wood1=1},nbt={SelectedItem:{id:"minecraft:netherite_axe",Count:1b,tag:{display:{Name:'{"text":"Lumberjack axe","color":"dark_purple","italic":true}',Lore:['{"text":"Chops down a whole tree at once!"}']}}}}] wood1 0
 

@@ -1,3 +1,5 @@
+#depends on -
+
 scoreboard objectives remove wood1
 scoreboard objectives remove wood2
 scoreboard objectives remove wood3

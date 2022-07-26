@@ -1,3 +1,6 @@
+#depends on game:markerfloor
+#depends on game:versuch
+
 #marker teppich baut sich auf
 scoreboard players set @a[scores={wood1=1}] wooddetect 1
 scoreboard players set @a[scores={wood2=1}] wooddetect 1

@@ -1,3 +1,5 @@
+#depends on -
+
 give @s oak_sapling
 give @s acacia_sapling
 give @s spruce_sapling

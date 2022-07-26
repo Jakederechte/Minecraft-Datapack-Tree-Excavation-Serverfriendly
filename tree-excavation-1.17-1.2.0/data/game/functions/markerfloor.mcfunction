@@ -1,3 +1,5 @@
+#depends on nothing
+
 #links
 execute as @a[scores={wooddetect=1}] at @s anchored eyes anchored feet positioned ^ ^ ^1 rotated as @s positioned ^ ^ ^-1 run summon minecraft:marker ^1 ^ ^ {Tags:["wood","summon"]}
 execute as @a[scores={wooddetect=1}] at @s anchored eyes anchored feet positioned ^ ^ ^1 rotated as @s positioned ^ ^ ^-1 run summon minecraft:marker ^1 ^ ^1 {Tags:["wood","summon"]}
