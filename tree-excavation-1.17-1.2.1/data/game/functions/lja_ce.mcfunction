@@ -1,3 +1,7 @@
+#depends on game:lumberjackaxe_give
+#depends on the advancement game:lja_a
+#depends on the recipe game:lja_r
+
 recipe take @s game:lja_r
 
 advancement revoke @s only game:lja_a
