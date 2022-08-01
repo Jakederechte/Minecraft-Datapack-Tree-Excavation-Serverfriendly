@@ -1,0 +1,14 @@
+
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "game:lja_r"
+            }
+        }
+    },
+    "rewards": {
+        "function": "game:lja_ce"
+    }
+}
