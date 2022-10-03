@@ -43,5 +43,5 @@ tag @e[tag=treeex-Main] remove treeex-Search
 execute as @e[tag=treeex-Main] run execute unless entity @e[tag=treeex-Search] run kill @s
 
 #runs the function again if there are still Markers left
-execute if score debug treeex-debug matches 1 run execute if entity @e[tag=treeex-Search] run schedule function game:clear_tree 7t
-execute if score debug treeex-debug matches 0 run execute if entity @e[tag=treeex-Search] run function game:clear_tree
+execute if score debug treeex-score matches 1 run execute if entity @e[tag=treeex-Search] run schedule function game:clear_tree 7t
+execute if score debug treeex-score matches 0 run execute if entity @e[tag=treeex-Search] run function game:clear_tree

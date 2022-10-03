@@ -1,7 +1,7 @@
 #depends on game:book_give
 
-execute as @a[team=!treeex-gotbook] run function game:book_give
+execute as @a[scores={treeex-score=0}] run function game:book_give
 
-team join gotbook @a[team=!treeex-gotbook]
+scoreboard players set @a treeex-score 1
 
 schedule function game:book 1s

@@ -5,4 +5,4 @@ give @s minecraft:netherite_axe
 
 give @s minecraft:smithing_table
 
-function game:craftingitems_vines
+function game:craftigitems_vine
